@@ -14,7 +14,11 @@ I'm a **Computer Science and Engineering** student passionate about mobile app d
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-- **Mobile Development**: Flutter, Firebase, Appwrite
+- **Mobile Development**:
+![Flutter](<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="40" height="40" alt="Flutter"/>
+)
+![Firebase](<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase"/>)
+![Appwrite](<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>)
 - **Web Technologies**: HTML, CSS, JavaScript
 - **Frameworks & APIs**: Spotify API, Google Maps API, Gemini API
 - **Tools & Technologies**: Git, Android Studio, VS Code, Provider State Management
@@ -28,5 +32,6 @@ I'm a **Computer Science and Engineering** student passionate about mobile app d
 - **LinkedIn**: [Nutan Kumar](https://www.linkedin.com/in/nutan-kumar-7b9b05329/)
 
 📌 *Always open to learning and collaborating on exciting projects!* 🚀
+
 
 
