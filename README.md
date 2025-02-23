@@ -6,7 +6,7 @@ I'm a **Computer Science and Engineering** student passionate about mobile app d
 - 🎓 **B.Tech CSE** | Ajay Kumar Garg Engineering College, Ghaziabad
 - 💻 **Flutter Developer** | Working on mobile applications and full-stack solutions
 - ⭐ **LeetCode 150+ problems solved** | **Codeforces 951 rating** | **2⭐ CodeChef (1438 rating)**
-- 🎯 **Currently Learning**: Advanced Flutter, Gemini API, Speech-to-Text & Text-to-Speech conversion
+- 🎯 **Currently Learning**: Advanced Flutter
 
 ## 🔨 Tech Stack
 - **Languages**: C++, Java, Dart, Python
