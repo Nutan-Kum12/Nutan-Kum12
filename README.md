@@ -33,10 +33,10 @@ I'm a **Computer Science and Engineering** student passionate about mobile app d
 
 
 ## 📫 Connect With Me
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nutan-Kum12)  
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nutan-Kum12/)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Nutan_ydv1/)  
-[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/raushanydv1) 
-[![CodeChef](https://img.shields.io/badge/CodeForces-5B4638?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/nutan9135kr)  
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/raushanydv1/) 
+[![CodeChef](https://img.shields.io/badge/CodeForces-5B4348?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/nutan9135kr/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nutan-kumar-7b9b05329/) 
 
 
