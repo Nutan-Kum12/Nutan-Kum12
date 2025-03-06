@@ -5,7 +5,7 @@ I'm a **Computer Science and Engineering** student passionate about mobile app d
 
 - 🎓 **B.Tech CSE** | Ajay Kumar Garg Engineering College, Ghaziabad
 - 💻 **Flutter Developer** | Working on mobile applications and full-stack solutions
-- ⭐ **LeetCode 150+ problems solved** | **Codeforces 951 rating** | **2⭐ CodeChef (1438 rating)**
+- ⭐ **LeetCode 150+ problems solved** | **Codeforces 1002 rating** | **2⭐ CodeChef (1460 rating)**
 - 🎯 **Currently Learning**: Advanced Flutter
 
 ## 🚀 Tech Stack & Skills  
@@ -26,16 +26,10 @@ I'm a **Computer Science and Engineering** student passionate about mobile app d
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 
-### **⚡ Frameworks & APIs**  
-![Spotify API](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)  
-![Google Maps API](https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)  
-![Gemini API](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)  
-
 ### **🔧 Tools & Technologies**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![Provider](https://img.shields.io/badge/Provider-2684FC?style=for-the-badge&logo=flutter&logoColor=white)  
 
 
 ## 📫 Connect With Me
