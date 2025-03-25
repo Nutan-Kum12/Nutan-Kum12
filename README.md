@@ -1,7 +1,8 @@
 # Hi, I'm Nutan Kumar! 👋  
 
 ## 🚀 About Me  
-I'm a **Computer Science and Engineering** student passionate about mobile app development. I enjoy building applications using **Flutter, Firebase, and Appwrite** and continuously learning new technologies to enhance my skills.  
+I'm a **Computer Science and Engineering** student passionate about mobile app development.  
+I enjoy building applications using **Flutter, Firebase, and Appwrite** and continuously learning new technologies to enhance my skills.  
 
 - 🎓 **B.Tech CSE** | Ajay Kumar Garg Engineering College, Ghaziabad  
 - 💻 **Flutter Developer** | Working on mobile applications and full-stack solutions  
@@ -13,53 +14,62 @@ I'm a **Computer Science and Engineering** student passionate about mobile app d
 ## 🚀 Tech Stack & Skills  
 
 ### **Languages**  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" width="40"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 </p>
 
 ### **📱 Mobile Development**  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" width="40"/>
-  <img src="https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-logomark.png" height="40" width="40"/>
-  <img src="https://appwrite.io/images/appwrite-icon.svg" height="40" width="40"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white" />
 </p>
 
 ### **🌐 Web Technologies**  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="40"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
 ### **🔧 Tools & Technologies**  
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nutan-Kum12&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nutan-Kum12&theme=radical" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nutan-Kum12&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
 ## 📫 Connect With Me  
-
-<p>
-  <a href="https://github.com/Nutan-Kum12/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="40"/>
+<p align="left">
+  <a href="https://github.com/Nutan-Kum12" target="_blank">
+    <img src="https://img.icons8.com/ios-glyphs/40/000000/github.png" />
   </a>
   <a href="https://leetcode.com/u/Nutan_ydv1/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" width="40"/>
+    <img src="https://img.icons8.com/external-tal-revivo-light-tal-revivo/40/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-light-tal-revivo.png" />
   </a>
   <a href="https://www.codechef.com/users/raushanydv1/" target="_blank">
-    <img src="https://cdn.codechef.com/images/cc-logo.svg" height="40" width="40"/>
+    <img src="https://img.icons8.com/ios-filled/40/5B4638/codechef.png" />
   </a>
   <a href="https://codeforces.com/profile/nutan9135kr/" target="_blank">
-    <img src="https://cdn.iconscout.com/icon/free/png-256/codeforces-3628695-3029920.png" height="40" width="40"/>
+    <img src="https://img.icons8.com/external-tal-revivo-light-tal-revivo/40/external-codeforces-programming-competitions-and-contests-programming-community-logo-light-tal-revivo.png" />
   </a>
   <a href="https://www.linkedin.com/in/nutan-kumar-7b9b05329/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" width="40"/>
+    <img src="https://img.icons8.com/ios-filled/40/0077B5/linkedin.png" />
   </a>
 </p>
 
