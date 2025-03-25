@@ -1,12 +1,14 @@
-# Hi, I'm Nutan Kumar! 👋
+# Hi, I'm Nutan Kumar! 👋  
 
-## 🚀 About Me
-I'm a **Computer Science and Engineering** student passionate about mobile app development. I enjoy building applications using **Flutter, Firebase, and Appwrite** and continuously learning new technologies to enhance my skills.
+## 🚀 About Me  
+I'm a **Computer Science and Engineering** student passionate about mobile app development. I enjoy building applications using **Flutter, Firebase, and Appwrite** and continuously learning new technologies to enhance my skills.  
 
-- 🎓 **B.Tech CSE** | Ajay Kumar Garg Engineering College, Ghaziabad
-- 💻 **Flutter Developer** | Working on mobile applications and full-stack solutions
-- ⭐ **LeetCode 150+ problems solved** | **Codeforces 1002 rating** | **2⭐ CodeChef (1460 rating)**
-- 🎯 **Currently Learning**: Advanced Flutter
+- 🎓 **B.Tech CSE** | Ajay Kumar Garg Engineering College, Ghaziabad  
+- 💻 **Flutter Developer** | Working on mobile applications and full-stack solutions  
+- ⭐ **LeetCode 150+ problems solved** | **Codeforces 1002 rating** | **2⭐ CodeChef (1460 rating)**  
+- 🎯 **Currently Learning**: Advanced Flutter  
+
+---
 
 ## 🚀 Tech Stack & Skills  
 
@@ -31,19 +33,16 @@ I'm a **Computer Science and Engineering** student passionate about mobile app d
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 
+---
 
-## 📫 Connect With Me
-Me  
+## 📫 Connect With Me  
+
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nutan-Kum12/)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Nutan_ydv1/)  
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/raushanydv1/)  
-
 [![CodeForces](https://img.shields.io/badge/CodeForces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/nutan9135kr/)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nutan-kumar-7b9b05329/)  
 
+---
 
-
-📌 *Always open to learning and collaborating on exciting projects!* 🚀
-
-
-
+📌 *Always open to learning and collaborating on exciting projects!* 🚀  
