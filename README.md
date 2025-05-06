@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hi, I'm Nutan Kumar! <img src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" width="35px" alt="👋" style="vertical-align:middle;">
+  Hi, I'm Nutan Kumar! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" alt="👋" />
 </h1>
 
 ---
@@ -20,7 +20,7 @@ I enjoy building applications using **Flutter, Firebase, and Appwrite** and cont
 ---
 ### ⚡ **Tech Stack & Tools**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,flutter,java,cpp,git,github,firebase,vscode,appwrite,C" />
+  <img src="https://skillicons.dev/icons?i=flutter,java,cpp,c,dart,git,github,firebase,appwrite,vscode,androidstudio" />
 </p>
 
 ---
@@ -28,9 +28,9 @@ I enjoy building applications using **Flutter, Firebase, and Appwrite** and cont
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nutan-Kum12&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br>
+<!--   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nutan-Kum12&theme=radical" alt="GitHub Streak" />
-  <br>
+  <br> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nutan-Kum12&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
