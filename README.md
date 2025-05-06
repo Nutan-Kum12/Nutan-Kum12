@@ -37,23 +37,24 @@ I enjoy building applications using **Flutter, Firebase, and Appwrite** and cont
 ---
 
 ## 📫 Connect With Me  
-<p align="left">
+<p align="center" style="display:flex; gap: 35px; align-items:center;">
   <a href="https://github.com/Nutan-Kum12" target="_blank">
-    <img src="https://img.icons8.com/ios-glyphs/40/000000/github.png" />
+    <img src="https://img.icons8.com/ios-glyphs/40/333333/github.png" alt="GitHub" />
   </a>
   <a href="https://leetcode.com/u/Nutan_ydv1/" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-light-tal-revivo/40/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-light-tal-revivo.png" />
+    <img src="https://img.icons8.com/external-tal-revivo-light-tal-revivo/40/FFA116/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-light-tal-revivo.png" alt="LeetCode" />
   </a>
   <a href="https://www.codechef.com/users/raushanydv1/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/40/5B4638/codechef.png" />
+    <img src="https://img.icons8.com/ios-filled/40/6e4c1e/codechef.png" alt="CodeChef" />
   </a>
   <a href="https://codeforces.com/profile/nutan9135kr/" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-light-tal-revivo/40/external-codeforces-programming-competitions-and-contests-programming-community-logo-light-tal-revivo.png" />
+    <img src="https://img.icons8.com/external-tal-revivo-light-tal-revivo/40/1f8ac0/external-codeforces-programming-competitions-and-contests-programming-community-logo-light-tal-revivo.png" alt="Codeforces" />
   </a>
   <a href="https://www.linkedin.com/in/nutan-kumar-7b9b05329/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/40/0077B5/linkedin.png" />
+    <img src="https://img.icons8.com/ios-filled/40/0A66C2/linkedin.png" alt="LinkedIn" />
   </a>
 </p>
+
 
 ---
 
