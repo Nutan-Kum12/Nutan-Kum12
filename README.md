@@ -57,5 +57,6 @@ I enjoy building applications using **Flutter, Firebase, and Appwrite** and cont
 
 
 ---
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
 📌 *Always open to learning and collaborating on exciting projects!* 🚀  
