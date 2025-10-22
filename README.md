@@ -20,7 +20,7 @@ I enjoy building applications using **Flutter, Firebase, and Appwrite** and cont
 ---
 ### ⚡ **Tech Stack & Tools**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,java,cpp,c,dart,git,github,firebase,appwrite,vscode,androidstudio,mongodb,fastapi" />
+  <img src="https://skillicons.dev/icons?i=flutter,java,cpp,c,dart,golang,git,github,firebase,appwrite,vscode,androidstudio,mongodb,fastapi" />
 </p>
 
 ---
