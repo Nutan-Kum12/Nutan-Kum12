@@ -1,5 +1,6 @@
 <h1 align="center">
-  Hi, I'm Nutan Kumar! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" alt="👋" />
+  Hi, I'm Nutan Kumar!
+  <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" alt="" /> -->
 </h1>
 
 ---
@@ -14,8 +15,8 @@ I enjoy building applications using **Flutter, Firebase, and Appwrite** and cont
 
 - 🎓 **B.Tech CSE** | Ajay Kumar Garg Engineering College, Ghaziabad  
 - 💻 **Flutter Developer** | Working on mobile applications and full-stack solutions  
-- ⭐ **LeetCode 150+ problems solved** | **Codeforces 1002 rating** | **2⭐ CodeChef (1460 rating)**  
-- 🎯 **Currently Learning**: Advanced Flutter  
+- ⭐ **LeetCode 250+ problems solved** | **Codeforces 1002 rating** | **2⭐ CodeChef (1460 rating)**  
+- 🎯 **Currently Learning**: Advanced Flutter and Golang
 
 ---
 ### ⚡ **Tech Stack & Tools**
@@ -38,10 +39,18 @@ I enjoy building applications using **Flutter, Firebase, and Appwrite** and cont
 
 ## 🧩 Open Source Contribution
 
-- ✔️ **openSUSE / systemd-mcp** — Contributed a complete log filtering feature  
-  *(pagination, time-range selection, and regex search support)*  
-  🔗 PR: https://github.com/openSUSE/systemd-mcp/pull/15
+- ✔️ openSUSE / systemd-mcp — contributed a complete log filtering feature
+(pagination, time-range selection, regex search)
+🔗 PR: openSUSE/systemd-mcp#15
 
+<!-- <p align="center"> <img src="https://img.shields.io/badge/Open%20Source-333333?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Contributor-6f42c1?style=for-the-badge" /> <img src="https://img.shields.io/badge/openSUSE-73ba25?style=for-the-badge&logo=opensuse&logoColor=white" /> <img src="https://img.shields.io/badge/Project-4CAF50?style=for-the-badge" /> <img src="https://img.shields.io/badge/PR-Merged-2ea44f?style=for-the-badge&logo=github" /></p>-->
+<p align="center"> <img src="https://img.icons8.com/color/80/linux--v1.png" /> </p>
+
+<!-- <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nutan-Kum12&theme=react-dark&hide_border=true&area=true&custom_title=Open%20Source%20Activity" /> </p> -->
+
+<!-- <p align="center"> <img src="https://img.shields.io/badge/openSUSE-Contributor-73ba25?style=for-the-badge&logo=openSUSE&logoColor=white" /> </p> -->
+
+<!-- <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nutan-Kum12&theme=dracula&hide_border=true&area=true&custom_title=My%20Contribution%20Activity" /> </p> -->
 ---
 
 ## 📫 Connect With Me  
