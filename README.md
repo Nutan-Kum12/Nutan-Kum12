@@ -36,6 +36,14 @@ I enjoy building applications using **Flutter, Firebase, and Appwrite** and cont
 
 ---
 
+## 🧩 Open Source Contribution
+
+- ✔️ **openSUSE / systemd-mcp** — Contributed a complete log filtering feature  
+  *(pagination, time-range selection, and regex search support)*  
+  🔗 PR: https://github.com/openSUSE/systemd-mcp/pull/15
+
+---
+
 ## 📫 Connect With Me  
 <p align="center" style="display:flex; gap: 35px; align-items:center;">
   <a href="https://github.com/Nutan-Kum12" target="_blank">
