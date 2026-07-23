@@ -15,7 +15,7 @@ I enjoy building applications using **Flutter, Firebase, and Appwrite** and cont
 
 - 🎓 **B.Tech CSE** | Ajay Kumar Garg Engineering College, Ghaziabad  
 - 💻 **Flutter Developer** | Working on mobile applications and full-stack solutions  
-- ⭐ **LeetCode 400+ problems solved** | **Codeforces 1002 rating** | **2⭐ CodeChef (1460 rating)**  
+- ⭐ **LeetCode 600+ problems solved** | **Codeforces 1200(Pupil) rating** | **2⭐ CodeChef (1500 rating)**  
 - 🎯 **Currently Learning**: Advanced Flutter and Golang
 
 ---
