@@ -33,25 +33,25 @@ I'm a **Computer Science and Engineering** student passionate about **Backend En
   <img
     src="https://github-readme-stats.shion.dev/api?username=Nutan-Kum12&show_icons=true&theme=radical"
     alt="GitHub Stats"
-    width="450"
-    height="200"
+    height="170"
   />
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img
     src="https://github-readme-stats.shion.dev/api/top-langs/?username=Nutan-Kum12&layout=compact&theme=radical"
     alt="Top Languages"
-    width="450"
-    height="200"
+    width="400"
+    height="170"
   />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=Nutan-Kum12&theme=radical"
     alt="GitHub Streak"
     width="600"
+    height="150"
   />
-</p>
+</p> -->
 
 ---
 
