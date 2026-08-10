@@ -5,18 +5,19 @@
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=1C71FA&center=true&vCenter=true&width=700&lines=Mobile+App+Developer+%7C+Flutter+%7C+Dart;Competitive+Programmer+%7C+C%2B%2B+%7C+LeetCode+%7C+CodeChef;Passionate+about+Solving+Problems+%26+Building+Apps!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=1C71FA&center=true&vCenter=true&width=700&lines=Backend+Engineering+%7C+Golang;Mobile+App+Developer+%7C+Flutter+%7C+Dart;Competitive+Programmer+%7C+C%2B%2B+%7C+LeetCode+%7C+CodeChef" />
 </p>
 
 ---
 ## 🚀 About Me  
-I'm a **Computer Science and Engineering** student passionate about mobile app development.  
-I enjoy building applications using **Flutter, Firebase, and Appwrite** and continuously learning new technologies to enhance my skills.  
+I'm a **Computer Science and Engineering** student passionate about **Backend Engineering and Mobile App Development**. I build backend services using **Golang, REST APIs, and databases**, along with mobile apps using **Flutter, Firebase, and Appwrite**.
+ 
 
-- 🎓 **B.Tech CSE** | Ajay Kumar Garg Engineering College, Ghaziabad  
-- 💻 **Flutter Developer** | Working on mobile applications and full-stack solutions  
-- ⭐ **LeetCode 600+ problems solved** | **Codeforces 1200(Pupil) rating** | **2⭐ CodeChef (1500 rating)**  
-- 🎯 **Currently Learning**: Advanced Flutter and Golang
+- 🎓 **B.Tech CSE** | Ajay Kumar Garg Engineering College, Ghaziabad
+- 💻 **Backend Engineer & Flutter Developer** | Building backend services and mobile applications
+- ⚙️ **Backend Stack** | Golang, REST APIs, Kafka, Redis, MySQL, MongoDB
+- ⭐ **LeetCode 700+ problems solved** | **Codeforces 1200 (Pupil) rating** | **2⭐ CodeChef (1500 rating)**
+- 🎯 **Currently Learning**: Advanced Backend Engineering, Kafka & Redis
 
 ---
 ### ⚡ **Tech Stack & Tools**
@@ -26,13 +27,30 @@ I enjoy building applications using **Flutter, Firebase, and Appwrite** and cont
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nutan-Kum12&show_icons=true&theme=radical" alt="GitHub Stats" />
-<!--   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nutan-Kum12&theme=radical" alt="GitHub Streak" />
-  <br> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nutan-Kum12&layout=compact&theme=radical" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats.shion.dev/api?username=Nutan-Kum12&show_icons=true&theme=radical"
+    alt="GitHub Stats"
+    width="450"
+    height="200"
+  />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img
+    src="https://github-readme-stats.shion.dev/api/top-langs/?username=Nutan-Kum12&layout=compact&theme=radical"
+    alt="Top Languages"
+    width="450"
+    height="200"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Nutan-Kum12&theme=radical"
+    alt="GitHub Streak"
+    width="600"
+  />
 </p>
 
 ---
