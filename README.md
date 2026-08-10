@@ -5,7 +5,7 @@
 
 ---
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=1C71FA&center=true&vCenter=true&width=700&lines=Backend+Engineering+%7C+Golang;Mobile+App+Developer+%7C+Flutter+%7C+Dart;Competitive+Programmer+%7C+C%2B%2B+%7C+LeetCode+%7C+CodeChef" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=1C71FA&center=true&vCenter=true&width=700&lines=Backend+Engineer+%7C+Golang;Mobile+App+Developer+%7C+Flutter+%7C+Dart;Competitive+Programmer+%7C+C%2B%2B+%7C+LeetCode+%7C+CodeChef" />
 </p>
 
 ---
